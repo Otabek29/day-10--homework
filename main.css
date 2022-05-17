@@ -1,0 +1,9 @@
+svg:hover {
+    fill: #000 !important;
+    background: #F67E7E !important;
+    color: #000;
+}
+
+.btn:hover {
+    background: #79C8C7 !important;
+}
